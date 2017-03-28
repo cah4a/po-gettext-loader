@@ -1,5 +1,18 @@
 # Simple PO files loader for webpack via gettext-parser
 
+## Installation
+
+```
+npm install po-gettext-loader
+```
+
+or
+
+```
+yarn add po-gettext-loader
+```
+
+
 ## Usage
 
 ```javascript
