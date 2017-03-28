@@ -1,0 +1,23 @@
+{
+  "name": "po-gettext-loader",
+  "version": "0.1.0",
+  "description": "Po files loader for webpack via gettext-parser",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Alex Kozlov",
+  "dependencies": {
+    "gettext-parser": "^1.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/cah4a/po-gettext-loader/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cah4a/po-gettext-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "gettext"
+  ]
+}
